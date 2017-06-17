@@ -209,9 +209,9 @@ class RegistrationForm extends React.Component {
                     </FormItem>
                 </Form>
                 <div className="lol">
-                    <Map onAPIAvailable={function () { console.log('API loaded'); }} center={[55.754734, 37.583314]} zoom={10}>
-                        <Marker lat={this.props.lat} lon={this.props.lon} />
-                    </Map>
+                    {/*<Map onAPIAvailable={function () { console.log('API loaded'); }} center={[55.754734, 37.583314]} zoom={10}>*/}
+                        {/*<Marker lat={this.props.lat} lon={this.props.lon} />*/}
+                    {/*</Map>*/}
                 </div>
 
             </PanelBox>
