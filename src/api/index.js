@@ -92,4 +92,8 @@ mock.onGet('/startWeather').reply((config) => {
 	// });
 });
 
+mock.onGet('/updateWeather').reply((config) => {
+
+});
+
 module.exports = mockAxios;
