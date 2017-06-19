@@ -5,26 +5,26 @@ module.exports = {
 			name: 'Pages',
 			icon: 'user',
 			child: [
-				{
-					name: 'Dashboard',
-					key: 101,
-					url: '/home'
-				},
-				{
-					name: 'Form',
-					key: 102,
-					url: '/form'
-				},
-				{
-					name: 'Table',
-					key: 103,
-					url: '/table'
-				},
-				{
-					name: '选项2',
-					key: 104,
-					url: '/page2'
-				},
+				// {
+				// 	name: 'Dashboard',
+				// 	key: 101,
+				// 	url: '/home'
+				// },
+				// {
+				// 	name: 'Form',
+				// 	key: 102,
+				// 	url: '/form'
+				// },
+				// {
+				// 	name: 'Table',
+				// 	key: 103,
+				// 	url: '/table'
+				// },
+				// {
+				// 	name: '选项2',
+				// 	key: 104,
+				// 	url: '/page2'
+				// },
 				{
 					name: 'Weather',
 					key: 105,

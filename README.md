@@ -46,6 +46,8 @@ $ npm run test
 $ npm run build
 ```
 
+При входе логин -пароль любые !!!
+
 ## Changelog
 
 ### 0.1.2
